@@ -1,0 +1,5 @@
+C:\Users\gLiczu\Desktop\MOD\obj\Debug\net472\ClientSideBlockOverlay.csproj.AssemblyReference.cache
+C:\Users\gLiczu\Desktop\MOD\obj\Debug\net472\ClientSideBlockOverlay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gLiczu\Desktop\MOD\obj\Debug\net472\ClientSideBlockOverlay.AssemblyInfoInputs.cache
+C:\Users\gLiczu\Desktop\MOD\obj\Debug\net472\ClientSideBlockOverlay.AssemblyInfo.cs
+C:\Users\gLiczu\Desktop\MOD\obj\Debug\net472\ClientSideBlockOverlay.csproj.CoreCompileInputs.cache

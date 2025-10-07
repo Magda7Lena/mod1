@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientSideBlockOverlay", "ClientSideBlockOverlay.csproj", "{CE4E83A9-0BE3-77AE-677A-CD98FCEEAA95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE4E83A9-0BE3-77AE-677A-CD98FCEEAA95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE4E83A9-0BE3-77AE-677A-CD98FCEEAA95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE4E83A9-0BE3-77AE-677A-CD98FCEEAA95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE4E83A9-0BE3-77AE-677A-CD98FCEEAA95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A542BBA-5D59-4B61-97DF-7E6C61499C04}
+	EndGlobalSection
+EndGlobal

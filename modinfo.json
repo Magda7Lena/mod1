@@ -1,0 +1,12 @@
+{
+  "type": "code",
+  "modid": "clientsideblockoverlay",
+  "name": "Client Side Block Overlay 1.20",
+  "description": "Client-side overlay mod for Vintage Story 1.20.12, no server communication.",
+  "version": "1.0.0",
+  "authors": ["gLiczu"],
+  "side": "Client",
+  "dependencies": {
+    "game": "1.20.12"
+  }
+}
